@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Data and Storage
+local_storage/
+plans_data.json
+hotel_plans.json
+local_db_mock.json
+mock_data_for_vector.json
+fetched_metadata.json
+vector_db/
+
+# System
+.DS_Store
+Thumbs.db
