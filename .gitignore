@@ -14,7 +14,7 @@ local_db_mock.json
 mock_data_for_vector.json
 fetched_metadata.json
 vector_db/
-
+secrets/
 # System
 .DS_Store
 Thumbs.db
